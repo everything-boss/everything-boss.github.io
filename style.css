@@ -6,7 +6,7 @@ img {
 #header {
   background: url("ha.jpg");
   padding: 10px;
-    position: fixed;
+    position: absolute;
 }
 #button {display: inline-block; position: absolute; bottom: 50px; right: 100px; background-color: #ffffff; width: 80px; height: 30px; padding: 12px 0px 0px 12px; }
 #button:hover {background-color: #ff0000; text-decoration: underline;}
