@@ -3,7 +3,7 @@ img {
   height: 150px
 }
 #name {color: #ff0000; display: inline-block; position: relative; margin: 25px; bottom: 50px }
-#asdf {
+#header {
   background: url("ha.jpg");
   padding: 10px;
     position: relative;
