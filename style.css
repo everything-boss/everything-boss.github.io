@@ -7,7 +7,7 @@ img {
   background: url("ha.jpg");
   padding: 10px;
 }
-#button {display: inline-block; position: relative; right: 500px; bottom: 60px; background-color: #ffffff; width: 80px; height: 30px; }
+#button {display: inline-block; position: relative; right: 500px; bottom: 60px; background-color: #ffffff; width: 80px; height: 30px; padding: 12px 0px 0px 12px}
 #button:hover {background-color: #ff0000; text-decoration: underline;}
 #background {border-radius:50px;
   width:50px;}
