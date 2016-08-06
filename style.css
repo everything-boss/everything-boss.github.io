@@ -5,18 +5,16 @@ img {
 #name {color: #ff0000; display: inline-block; position: relative; margin: 25px; bottom: 50px }
 #header {
   background: url("ha.jpg");
-  padding: 10px;
-    
-}
+  padding: 10px; text-align: center;}
 #button {display: inline-block; position: fixed; bottom: 50px; left: 10px; background-color: #ff0000; width: 80px; height: 30px; padding: 12px 0px 0px 12px; }
 #button a {color: black; text-decoration: none;}
 #button:hover {background-color: blue; text-decoration: underline;}
 #background {border-radius:50px;
   width:50px;}
 .click:hover {height: 200px; }
-.click:{  height: 120px; display: inline-block; margin-top: 50px;}
+.click:{  height: 120px; display: inline-block; margin-top: 50px; }
 .clicko:hover{color: purple; text-decoration: underline;}
-.clicko {color: black; text-decoration: none;}
+.clicko {color: black; text-decoration: none; text-align: center;}
 #two {background-color:#eb556c; display: inline-block; position: absolute; right: 10px; top: 210px; height: 500px; width: 800px;}
 
 
