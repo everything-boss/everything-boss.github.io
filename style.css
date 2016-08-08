@@ -19,4 +19,4 @@ img {
 
 
 #one {height: 950px; background-color: #eb556c; width: 300px; text-align: center; padding: 10px;}
-#three {height: 971px; width: 300px; display: inline-block; position: relative; left: 320px; bottom: 971px; background-color: #034545;}
+#three {height: 971px; width: 300px; display: inline-block; position: absolute; left: 320px; top: 210px; background-color: #034545;}
