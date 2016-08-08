@@ -1,0 +1,22 @@
+img { height: 300px}
+body {font-family: impact; margin: 0;}
+ul { list-style-type: none; }
+#header {
+  background: url(haha.jpg);color: white;
+  text-align: center; margin: 50px 50px;  }
+#header li {display: inline-block; margin: 10px}
+
+#header a {
+  color: white;
+  text-decoration: none;
+}
+.post a { display: inline-block; padding: 1px;
+  color: forestgreen;
+  border: 3px dashed ;}
+.post li {display: inline-block; }
+.post h2 {display: inline-block; }
+.post ul {display: inline-block; padding: 8px; }
+.post a:hover {background-color: blue;}
+#round {border-radius: 600px; }
+#header a:hover {border-bottom-style: solid; color: blue;}
+.trump {margin: 0px 200px 0px 200px;}
